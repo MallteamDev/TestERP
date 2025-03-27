@@ -105,7 +105,7 @@ end
 
 else
 begin
-if @ver= 17
+if @ver= 14
 begin
 CREATE TABLE #restoreFiles2 (LogicalName NVARCHAR(128),
 
