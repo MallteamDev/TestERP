@@ -10,6 +10,6 @@
         "--vanessasettings": "tools/VBParams.json",
         "--workspace": ".",
         "--pathvanessa": ".",
-        "--additional": "/DisplayAllFunctions /L ru"
+        "--additional": "/TESTMANAGER /DisplayAllFunctions /L ru"
     }
 }
