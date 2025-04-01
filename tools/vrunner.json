@@ -7,7 +7,7 @@
         "--v8version": ""
     },
     "vanessa": {
-        "--vanessasettings": "VBParams.json",
+        "--vanessasettings": "tools/VBParams.json",
         "--workspace": ".",
         "--pathvanessa": ".",
         "--additional": "/DisplayAllFunctions /L ru"
